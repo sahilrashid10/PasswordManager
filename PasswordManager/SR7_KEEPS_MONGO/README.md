@@ -1,42 +1,73 @@
-# SR7_KEEPS_MONGO Backend
+# SR7_KEEPS_MONGO
 
-This is the backend server for the SR7 Keeps Mongo password manager project.
+This is the full-stack version of the SR7 Keeps password manager project, featuring a Node.js/Express backend and MongoDB integration.
 
 ## Features
-- Node.js + Express server
+- Secure password management
+- Modern React frontend (Vite)
+- Node.js/Express backend
 - MongoDB integration
-- RESTful API for password management
-- Secure storage and retrieval of password entries
+- Responsive UI
+- Copy, edit, and delete password entries
+- Eye icon to toggle password visibility
+- Beautiful icons and branding
 
 ## Project Structure
 ```
-backend/
-  server.js         # Main server file
-  package.json      # Backend dependencies
+SR7_KEEPS_MONGO/
+  backend/           # Node.js/Express backend
+  public/icons/      # App icons
+  public/Readme.pic/ # Images for README
+  src/               # React frontend
 ```
+
+## Screenshots
+
+| ![image.png](./public/Readme.pic/image.png) | ![image copy.png](./public/Readme.pic/image%20copy.png) |
+|:-------------------------------------------:|:------------------------------------------------------:|
+| ![image copy 2.png](./public/Readme.pic/image%20copy%202.png) | ![image copy 3.png](./public/Readme.pic/image%20copy%203.png) |
+| ![image copy 4.png](./public/Readme.pic/image%20copy%204.png) | ![image copy 5.png](./public/Readme.pic/image%20copy%205.png) |
 
 ## Getting Started
 
 ### 1. Install dependencies
+#### For frontend:
 ```sh
 npm install
 ```
+#### For backend (in `backend`):
+```sh
+cd backend
+npm install
+```
 
-### 2. Configure Environment
-- Set up your MongoDB connection string in the code or via environment variables as needed.
-
-### 3. Run the server
+### 2. Run the app
+#### Start backend server:
 ```sh
 node server.js
 ```
-
-The backend will start on the configured port (default: 3000).
-
-## API Endpoints
-- `GET /api/passwords` - Get all passwords
-- `POST /api/passwords` - Add a new password
-- `PUT /api/passwords/:id` - Update a password
-- `DELETE /api/passwords/:id` - Delete a password
+#### Start frontend (in another terminal):
+```sh
+npm run dev
+```
 
 ## License
 MIT
+
+## Credits
+- Developed by Sahil Rashid
+- Icons and images in `public/icons` and `public/Readme.pic`
+
+## Contact
+For any queries, contact: [Your Email Here]
+
+## More Screenshots
+
+Below are all images from `public/Readme.pic/` for reference:
+
+| ![image.png](./public/Readme.pic/image.png) | ![image copy.png](./public/Readme.pic/image%20copy.png) |
+|:-------------------------------------------:|:------------------------------------------------------:|
+| ![image copy 2.png](./public/Readme.pic/image%20copy%202.png) | ![image copy 3.png](./public/Readme.pic/image%20copy%203.png) |
+| ![image copy 4.png](./public/Readme.pic/image%20copy%204.png) | ![image copy 5.png](./public/Readme.pic/image%20copy%205.png) |
+
+> **Tip:** If images do not display on GitHub, check the file paths and ensure the images are committed to the repository.
