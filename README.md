@@ -38,7 +38,7 @@ SR7-KEEPS/
 
 ### SR7_KEEPS_MONGO
 
-| ![image.png](./SR7_KEEPS_MONGO/public/Readme.pic/image.png) | ![image copy.png](./SR7_KEEPS_MONGO/public/Readme.pic/image%20copy.png) |
+| ![image.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image.png) | ![image copy.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy.png) |
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|
 | ![image copy 2.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%202.png) | ![image copy 3.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%203.png) |
 | ![image copy 4.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%204.png) | ![image copy 5.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%205.png) |
@@ -85,12 +85,6 @@ MIT
 - Developed by Sahil Rashid
 - Icons and images in `public/icons` and `public/Readme.pic`
 
-## More Screenshots
-
-Below are all images from `public/Readme.pic/` for reference:
-
-| ![image.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image.png) | ![image copy.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy.png) |
-|:----------------------------------------------------------:|:---------------------------------------------------------------:|
 
 
 ---
