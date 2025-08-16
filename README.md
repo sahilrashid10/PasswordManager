@@ -41,7 +41,7 @@ SR7-KEEPS/
 | ![image.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image.png) | ![image copy.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy.png) |
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|
 | ![image copy 2.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%202.png) | ![image copy 3.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%203.png) |
-| ![image copy 4.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%204.png) | ![image copy 5.png](./PasswordManager/SR7_KEEPS_MONGO/public/Readme.pic/image%20copy%205.png) |
+ 
 
 ---
 
