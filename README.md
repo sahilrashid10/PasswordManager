@@ -41,11 +41,14 @@ SR7-KEEPS/
 ---
 
 ## Screenshots
-
-|![image copy 2.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy%202.png) |
-| ![image copy.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy.png) |
-![image copy 3.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy%203.png) |
-| ![image.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image.png) 
+#### Getting started:
+![image copy 2.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy%202.png) 
+#### Add Password:
+![image copy.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy.png) 
+#### Copy Password/Website_URL/Username to Clipboard(Toast at the top showing what you copied):
+![image copy 3.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image%20copy%203.png) 
+#### Deleting the password:
+![image.png](./PasswordManager/SR7-KEEPS/public/Readme.pic/image.png) 
 
 |:----------------------------------------------------------:|:---------------------------------------------------------------:|
 
